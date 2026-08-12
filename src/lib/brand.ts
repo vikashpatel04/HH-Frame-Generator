@@ -1,4 +1,4 @@
-import logoAsset from "@/assets/hh-logo.png";
+import logoAsset from "@/assets/hh-logo.svg";
 import wordmarkAsset from "@/assets/hacker-house.png";
 import goaAsset from "@/assets/goa-hindi.svg";
 import studioAsset from "@/assets/studio-247.svg";

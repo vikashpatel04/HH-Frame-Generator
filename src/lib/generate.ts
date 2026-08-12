@@ -508,7 +508,7 @@ export async function renderPfp(
   ctx.save();
   ctx.fillStyle = BRAND.yellow;
   ctx.globalAlpha = 0.3;
-  const dots = [
+  const dots: [number, number][] = [
     [72, 72],
     [92, 56],
     [56, 96],

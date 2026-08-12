@@ -235,7 +235,7 @@ function Index() {
           <img
             src={ASSETS.logo}
             alt="Hacker House Goa"
-            className="mx-auto w-full max-w-md sm:max-w-xl"
+            className="mx-auto w-full max-w-48 sm:max-w-60"
           />
           <p className="mt-4 text-xs tracking-[0.35em] text-primary sm:text-sm">
             {EVENT.place} · {EVENT.dates} · {EVENT.studio}
